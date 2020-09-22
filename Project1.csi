@@ -1,0 +1,22 @@
+[History]
+1=#P0#=mb	#P1#=TaskBarList_ButtonPressed	#P2#=Project1/Form1/TaskBarList_ButtonPressed	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122021657	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122020532	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=Command1_Click	#P2#=Project1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122020417	#P7#=0	#P8#=0	.
+4=#P0#=mb	#P1#=Command4_Click	#P2#=Project1/Form1/Command4_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122015443	#P7#=0	#P8#=4	.
+5=#P0#=mb	#P1#=ThumbBarAddButtons	#P2#=Project1/ITaskBarList3/ThumbBarAddButtons	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122012456	#P7#=0	#P8#=8	.
+6=#P0#=mb	#P1#=SetThumbnailTooltip	#P2#=Project1/ITaskBarList3/SetThumbnailTooltip	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122012211	#P7#=0	#P8#=-1	.
+7=#P0#=mb	#P1#=ButtonsWindowProc	#P2#=Project1/ITaskBarList3/ButtonsWindowProc	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122021743	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=Class_Terminate	#P2#=Project1/ITaskBarList3/Class_Terminate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122005112	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=StopSubclass	#P2#=Project1/ITaskBarList3/StopSubclass	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122005011	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=StartSubclass	#P2#=Project1/ITaskBarList3/StartSubclass	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122004649	#P7#=0	#P8#=-1	.
+11=#P0#=mb	#P1#=Class_Initialize	#P2#=Project1/ITaskBarList3/Class_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122004125	#P7#=0	#P8#=3	.
+12=#P0#=mb	#P1#=SetProgressValue	#P2#=Project1/ITaskBarList3/SetProgressValue	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122003829	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=Command3_Click	#P2#=Project1/Form1/Command3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122000712	#P7#=0	#P8#=1	.
+14=#P0#=mb	#P1#=SetProgressState	#P2#=Project1/ITaskBarList3/SetProgressState	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122000549	#P7#=0	#P8#=0	.
+15=#P0#=mb	#P1#=SetThumbnailClip	#P2#=Project1/ITaskBarList3/SetThumbnailClip	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100122000523	#P7#=0	#P8#=-1	.
+16=#P0#=mb	#P1#=Command2_Click	#P2#=Project1/Form1/Command2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100122000338	#P7#=0	#P8#=1	.
+17=#P0#=mb	#P1#=SetOverlayIcon	#P2#=Project1/ITaskBarList3/SetOverlayIcon	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100121235655	#P7#=0	#P8#=2	.
+18=#P0#=mb	#P1#=List1_Click	#P2#=Project1/Form1/List1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100121234437	#P7#=0	#P8#=2	.
+19=#P0#=mb	#P1#=hs_prg_Scroll	#P2#=Project1/Form1/hs_prg_Scroll	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100121234059	#P7#=0	#P8#=0	.
+20=#P0#=mb	#P1#=hs_prg_Change	#P2#=Project1/Form1/hs_prg_Change	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20100121234052	#P7#=0	#P8#=-1	.
+21=#P0#=mb	#P1#=CallInterface	#P2#=Project1/modOLECommon/CallInterface	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20100121231336	#P7#=0	#P8#=0	.
